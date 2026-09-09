@@ -1,0 +1,13 @@
+{
+  "name": "genpark-bulletproofs-inner-product-argument-ipa-skill",
+  "version": "1.0.0",
+  "description": "Bulletproofs Inner Product Argument (IPA) recursive halving reduction proving inner product satisfiability without trusted setup.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "zero-knowledge-proofs",
+    "bulletproofs",
+    "inner-product-argument",
+    "transparent-zk"
+  ]
+}
